@@ -1,0 +1,15 @@
+D:\projects\dio\desafio-final-testes\CPFValidation\bin\Debug\net6.0\CPFValidation.exe
+D:\projects\dio\desafio-final-testes\CPFValidation\bin\Debug\net6.0\CPFValidation.deps.json
+D:\projects\dio\desafio-final-testes\CPFValidation\bin\Debug\net6.0\CPFValidation.runtimeconfig.json
+D:\projects\dio\desafio-final-testes\CPFValidation\bin\Debug\net6.0\CPFValidation.dll
+D:\projects\dio\desafio-final-testes\CPFValidation\bin\Debug\net6.0\CPFValidation.pdb
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.csproj.AssemblyReference.cache
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.AssemblyInfoInputs.cache
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.AssemblyInfo.cs
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.csproj.CoreCompileInputs.cache
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.dll
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\refint\CPFValidation.dll
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.pdb
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\CPFValidation.genruntimeconfig.cache
+D:\projects\dio\desafio-final-testes\CPFValidation\obj\Debug\net6.0\ref\CPFValidation.dll
